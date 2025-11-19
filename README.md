@@ -79,4 +79,7 @@ To configure users (customers), go to Agent Panel -> Users -> Add New. Add users
 
 
 <img width="954" height="659" alt="OS POST 8" src="https://github.com/user-attachments/assets/28d3a1b2-9493-4757-b44d-2521c0eb967a" />
+<p>
+  
+</p>
 To configure help topics for user ticket creation, navigate to Admin Panel -> Manage -> Help Topics. These topics will guide users in categorizing their tickets effectively.
