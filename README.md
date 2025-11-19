@@ -1,4 +1,5 @@
-osTicket logo
+<img width="700" height="200" alt="Osticket" src="https://github.com/user-attachments/assets/9ed56504-197e-4d83-8473-ad9addd88a89" />
+
 osTicket - Post-Install Configuration
 This tutorial outlines the post-installation configuration of the open-source help desk ticketing system, osTicket.
 Environments and Technologies Used
