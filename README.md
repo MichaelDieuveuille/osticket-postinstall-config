@@ -1,16 +1,18 @@
 <img width="700" height="200" alt="Osticket" src="https://github.com/user-attachments/assets/9ed56504-197e-4d83-8473-ad9addd88a89" />
 
-osTicket - Post-Install Configuration
-This tutorial outlines the post-installation configuration of the open-source help desk ticketing system, osTicket.
-Environments and Technologies Used
+<h1>osTicket - Post-Install Configuration</h1>
+This tutorial outlines the post-installation configuration of the open-source help desk ticketing system, osTicket.<br />
+
+
+<h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-Operating Systems Used
+<h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10 (21H2)</b> (21H2)
 
 Configuration Steps
 
