@@ -14,7 +14,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 - Windows 10 (21H2)</b> (21H2)
 
-Configuration Steps
+<h2>Configuration Steps</h2>
 
 <img width="961" height="507" alt="OS POST 1" src="https://github.com/user-attachments/assets/b73723f5-50fe-40d5-ad34-7e6faf33c4ed" />
 <P>
